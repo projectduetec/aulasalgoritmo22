@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>atributos do body</title>
+</head>
+<body background="internet.jpg" link="red" vlink="yellow" alink="green">
+
+bgcolor = cor de fundo
+background = imagem de fundo
+text = cor de texto 
+link = cor de link 
+vlink = cor do link visitado 
+alink = cor do link acionado 
+
+MUDANDO A IMAGEM DE FUNDO E CORES DOS LINKS<br>
+
+<a href="http://www.google.com">link</a>
+
+</body>
+</html>
